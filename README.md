@@ -45,3 +45,5 @@ Começo do UI/UX Design:
 Dia 9/Setembro
 
 Marcar reuniões e alinhamento do projeto com o cliente
+Continuidade do modelo no Figma
+Definição de alguns objetivos a serem alcançados
