@@ -47,3 +47,8 @@ Dia 9/Setembro
 Marcar reuniões e alinhamento do projeto com o cliente
 Continuidade do modelo no Figma
 Definição de alguns objetivos a serem alcançados
+
+Dia 16 e 17/Setembro
+
+Conseguimos fazer reuniões e colocar em pauta idéia do projeto do site, fizemos um molde demonstrativo (meio que um rascunho) na plataforma Figma e mostramos aos nossos clientes
+Obtivemos grandes resultados dos clientes, foi aprovado o esboço e foi definido a plataforma onde irá ser feito o projeto: Wordpress
